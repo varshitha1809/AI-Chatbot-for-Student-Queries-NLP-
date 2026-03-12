@@ -1,0 +1,9 @@
+What is machine learning? - Machine learning is a field of artificial intelligence that allows systems to learn from data.
+
+What is Python? - Python is a high level programming language used for web development, data science, and AI.
+
+What is AI? - Artificial Intelligence is the simulation of human intelligence in machines.
+
+What is data science? - Data science is the process of analyzing data to extract useful insights.
+
+What is SQL? - SQL is used to manage and query relational databases.
